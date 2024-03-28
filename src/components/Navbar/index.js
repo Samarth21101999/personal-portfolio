@@ -16,7 +16,7 @@ return (
     <NavbarContainer>
       <NavLogo to='/'>
         <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-          <DiCssdeck size="3rem" /> <Span>Samarth Patel</Span>
+          <img src="https://i.postimg.cc/JhzMYWPS/portfolio-logo.jpg" alt='img' height={'30rem'}/> <Span>Samarth Patel</Span>
         </a>
       </NavLogo>
       <MobileIcon>
